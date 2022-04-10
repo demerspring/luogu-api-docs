@@ -1,3 +1,4 @@
+```typescript
 export interface ProblemListParams {
   page?: number;
   keyword?: string;
@@ -1030,3 +1031,4 @@ export interface LegacyList<T> {
   count: number;
   result: T[];
 }
+```
